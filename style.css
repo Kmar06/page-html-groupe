@@ -15,7 +15,7 @@ body {
 #apropos ul {
   list-style-type: disc;
   padding-left: 20px;
-
+}
 #intro {
   background-color: #ffffff;
   padding: 20px;
@@ -23,4 +23,10 @@ body {
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
   margin-top: 20px;
 
+}
+#contact {
+  background-color: #d8f3dc;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 30px; /* ← par exemple changer de 20px à 30px */
 }
